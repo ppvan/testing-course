@@ -3,3 +3,5 @@ go 1.21.1
 use ./w3
 
 use ./w4
+
+use ./w5
